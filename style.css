@@ -1,0 +1,15 @@
+#body{
+    background-color: rgb(212, 212, 231);
+}
+#image{
+    text-align: center;
+   
+}
+#name{
+    font-size: 50%;   
+    text-align: center; 
+}
+#school{
+    text-align: center;
+    font-size:50%;
+}
